@@ -8,7 +8,7 @@ Adafruit_SH1106G display = Adafruit_SH1106G(128, 64, &Wire, -1);
 
 const char* ssid       = "Le Cuong T5";  
 const char* password   = "cuong1210";     
-const int feedHour     = 10; 
+const int feedHour     = 12; 
 const long  gmtOffset_sec = 7 * 3600; 
 const int   daylightOffset_sec = 0;
 
